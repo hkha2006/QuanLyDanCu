@@ -1,0 +1,9 @@
+export { default as ErrorPage } from "./ErrorPage";
+export { default as Dashboard } from "./Dashboard";
+export { default as Setting } from "./Setting";
+export { default as Users } from "./Users";
+export { default as Form } from "./Form";
+export { default as Feedback } from "./Feedback";
+export { default as News } from "./News";
+export { default as Login } from "./Login"
+export { default as Logout } from "./Logout"
